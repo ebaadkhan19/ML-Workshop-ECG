@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Ebaad,
 
 ### 🚀 About Me
 - 📊 **Undergrad Data Scientist** with a passion for **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Data Analytics**.
@@ -28,5 +28,5 @@
 
 ### 📫 Let's Connect!
 - **LinkedIn**: [https://www.linkedin.com/in/ebaad-khan-148a82262/]
-- **Email**: [ebaadk03@gmail.com](#)
+- **Email**: [ebaadk03@gmail.com]
 Feel free to explore my repositories and collaborate on exciting projects! Let's make something amazing together!
