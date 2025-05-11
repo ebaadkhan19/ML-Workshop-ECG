@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Ebaad Khan]
+# 👋 Hi there! I'm Ebaad Khan
 
 ### 🚀 About Me
 - 📊 **Data Scientist** with a passion for **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Data Analytics**.
