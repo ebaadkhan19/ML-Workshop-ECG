@@ -27,11 +27,6 @@
 ### 💡 Fun Fact
 - I believe in **clear and concise explanations**—the simpler, the better. Complexity has its place, but simplicity drives understanding!
 
-### 📫 Let's Connect!
-- **LinkedIn**: [](#)
-- **Email**: [Your Email](#)
-- **Portfolio**: [Your Portfolio Link](#)
-
 Feel free to explore my repositories and collaborate on exciting projects! Let's make something amazing together!
 
 # ECG Anomaly Detection Model
